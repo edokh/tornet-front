@@ -13,7 +13,7 @@
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="w-6 h-6 text-white"
+            class="w-6 h-6 text-white cursor-pointer"
           >
             <path
               stroke-linecap="round"
@@ -28,7 +28,7 @@
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="w-6 h-6 text-white"
+            class="w-6 h-6 text-white cursor-pointer"
           >
             <path
               stroke-linecap="round"
@@ -204,10 +204,10 @@
               <p class="active-category">Today</p>
             </swiper-slide>
             <swiper-slide class="mx-1" v-for="i in 8" :key="i">
-              <p class="category">
+              <button class="category">
                 {{ i + 18 }}
                 mar
-              </p>
+              </button>
             </swiper-slide>
           </swiper>
         </div>
