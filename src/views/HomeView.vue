@@ -42,14 +42,14 @@
         <div class="mt-3 flex justify-between space-x-3">
           <div class="px-6 py-4 box background-tint rounded-2xl w-1/2">
             <div class="flex justify-between">
-              <img src="xmlid1095.png" alt="Total points" class="h-6" />
+              <img src="/xmlid1095.png" alt="Total points" class="h-6" />
               <h4 class="sub-headers">Total Points</h4>
             </div>
             <h3 class="text-white text-center text-2xl">453.23</h3>
           </div>
           <div class="px-6 py-4 rounded-2xl w-1/2 sub-img">
             <div class="flex justify-between">
-              <img src="g561.png" alt="ranking" class="w-6" />
+              <img src="/g561.png" alt="ranking" class="w-6" />
               <h4 class="sub-headers">Ranking</h4>
             </div>
             <h3 class="text-white text-center text-2xl">453.23</h3>
@@ -62,12 +62,12 @@
                 <div class="relative w-full">
                   <img
                     class="absolute object-cover object-center w-full top-0 rounded-2xl h-28 right-0 left-0"
-                    src="9-7.jpg"
+                    src="/9-7.jpg"
                     alt="Image 2"
                   />
                   <img
                     class="absolute w-full object-cover object-center top-0 rounded-2xl h-28 bottom-0 opacity-50 right-0 left-0"
-                    src="9-1.webp"
+                    src="/9-1.webp"
                     alt="Image 2"
                   />
                 </div>
@@ -95,7 +95,7 @@
                   </span>
                   <div class="h-full">
                     <img
-                      src="rectangle-59.png"
+                      src="/rectangle-59.png"
                       class="img3 h-24 object-cover object-center"
                       alt="img3"
                     />
@@ -120,8 +120,8 @@
               <span>Enabled</span>
             </div>
             <div class="flex justify-between mt-4">
-              <img src="mask-group-7.png" alt="" class="h-9" />
-              <img src="auto-group-ktx9.png" alt="" class="h-9" />
+              <img src="/mask-group-7.png" alt="" class="h-9" />
+              <img src="/auto-group-ktx9.png" alt="" class="h-9" />
             </div>
             <div style="margin-top: 10px">
               <div class="flex justify-between h-4">
@@ -139,8 +139,8 @@
               <span>Enabled</span>
             </div>
             <div class="flex justify-between mt-4">
-              <img src="mask-group-9.png" alt="" class="h-9" />
-              <img src="mask-group-10.png" alt="" class="h-9" />
+              <img src="/mask-group-9.png" alt="" class="h-9" />
+              <img src="/mask-group-10.png" alt="" class="h-9" />
             </div>
             <div style="margin-top: 10px">
               <div class="flex justify-between h-4">
@@ -158,8 +158,8 @@
               <span>Enabled</span>
             </div>
             <div class="flex justify-between mt-4">
-              <img src="mask-group-2.png" alt="" class="h-9" />
-              <img src="mask-group-1.png" alt="" class="h-9" />
+              <img src="/mask-group-2.png" alt="" class="h-9" />
+              <img src="/mask-group-1.png" alt="" class="h-9" />
             </div>
             <div style="margin-top: 10px">
               <div class="flex justify-between h-4">
@@ -215,8 +215,8 @@
         <div class="mt-3">
           <div class="top-match flex justify-between">
             <div class="flex my-auto space-x-1">
-              <img src="mask-group-2.png" alt="" class="h-9" />
-              <img src="mask-group-1.png" alt="" class="h-9" />
+              <img src="/mask-group-2.png" alt="" class="h-9" />
+              <img src="/mask-group-1.png" alt="" class="h-9" />
             </div>
             <div>
               <div class="flex">
@@ -232,8 +232,8 @@
         <div class="mt-3">
           <div class="top-match flex justify-between">
             <div class="flex my-auto space-x-1">
-              <img src="mask-group-7.png" alt="" class="h-9" />
-              <img src="auto-group-ktx9.png" alt="" class="h-9" />
+              <img src="/mask-group-7.png" alt="" class="h-9" />
+              <img src="/auto-group-ktx9.png" alt="" class="h-9" />
             </div>
             <div>
               <div class="flex">
@@ -249,8 +249,8 @@
         <div class="mt-3">
           <div class="top-match flex justify-between">
             <div class="flex my-auto space-x-1">
-              <img src="mask-group-9.png" alt="" class="h-9" />
-              <img src="mask-group-10.png" alt="" class="h-9" />
+              <img src="/mask-group-9.png" alt="" class="h-9" />
+              <img src="/mask-group-10.png" alt="" class="h-9" />
             </div>
             <div>
               <div class="flex">
@@ -291,12 +291,12 @@ const categories = [
   { id: 4, title: 'View All' }
 ]
 const leagues = [
-  { id: 1, name: 'FPL', img: 'rectangle-26-AKF.png' },
-  { id: 2, name: 'LFP', img: 'rectangle-26.png' },
-  { id: 3, name: 'Premier', img: 'rectangle-26-doK.png' },
-  { id: 4, name: 'Serie A', img: 'rectangle-26-u6d.png' },
-  { id: 5, name: 'Barclays', img: 'rectangle-26-doK.png' },
-  { id: 6, name: 'IPL', img: 'rectangle-26-AKF.png' }
+  { id: 1, name: 'FPL', img: '/rectangle-26-AKF.png' },
+  { id: 2, name: 'LFP', img: '/rectangle-26.png' },
+  { id: 3, name: 'Premier', img: '/rectangle-26-doK.png' },
+  { id: 4, name: 'Serie A', img: '/rectangle-26-u6d.png' },
+  { id: 5, name: 'Barclays', img: '/rectangle-26-doK.png' },
+  { id: 6, name: 'IPL', img: '/rectangle-26-AKF.png' }
 ]
 </script>
 <style>
