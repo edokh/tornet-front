@@ -3,7 +3,7 @@
     <div class="mobile-div mx-auto min-h-screen">
       <div class="flex nav p-3 justify-between">
         <div class="flex">
-          <img class="w-6 mr-2" src="logo.png" alt="ball-icon" />
+          <img class="w-6 mr-2" src="/logo.png" alt="ball-icon" />
           <h3 class="text-white text-lg">Captain Korek</h3>
         </div>
         <div class="flex">
