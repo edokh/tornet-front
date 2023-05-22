@@ -89,7 +89,7 @@
                   </div>
                   <span
                     style="font-size: 21px"
-                    class="rounded-full bg-white h-7 w-7 font-extrabold text-center text-base flex justify-center absolute right-2 top-2 z-30"
+                    class="rounded-full bg-white h-7 w-7 font-extrabold text-center text-base flex justify-center items-center absolute right-2 top-2 z-30"
                   >
                     3
                   </span>
