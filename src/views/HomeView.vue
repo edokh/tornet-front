@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-900 w-full h-screen main-div">
-    <div class="mobile-div border mx-auto min-h-screen">
+    <div class="mobile-div mx-auto min-h-screen">
       <div class="flex nav p-3 justify-between">
         <div class="flex">
           <img class="w-6 mr-2" src="logo.png" alt="ball-icon" />
