@@ -93,7 +93,6 @@
                   >
                     3
                   </span>
-                  <!--  -->
                   <div class="h-full">
                     <img
                       src="/rectangle-59.png"
